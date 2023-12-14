@@ -1,0 +1,20 @@
+
+Problemă: Ești însărcinat să proiectezi o bază de date pentru o companie de livrare flori. 
+Compania gestionează comenzi online și livrări de flori pentru diverse ocazii. 
+Baza de date trebuie să gestioneze informații despre buchetele de flori, clienți, comenzi și livratori.
+Focalizează-te pe cum compania de livrare flori ar putea urmări detaliile comandelor clienților, 
+tipurile și disponibilitatea buchetelor de flori, procesul de livrare și informațiile despre livratori. 
+Gândește-te la atributele necesare pentru fiecare entitate și cum acestea se interconectează pentru a susține operațiunile companiei.
+
+
+Cerințe:
+
+La nivel conceptual:
+ a) identificați entitățile și relațiile care compun schema bazei de date. (0.25 puncte)
+ b) identificați atributele conținute de entități (relații) - nume și domeniu. (0.25 puncte)
+
+ La nivel logic
+ c) proiectați schema bazei de date folosind diagrama ER (atenție la cardinalitatea/modalitatea dintre entități)
+   și exportați rezultatele în format .mwb (MySQL Workbench) și .sql (fișier SQL). (0.25 puncte)
+ d) asigurați-vă că relațiile sunt în forma normală 3 (3NF). Argumentați. (0.25 puncte)
+
