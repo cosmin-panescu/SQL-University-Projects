@@ -3,4 +3,5 @@
 
 ER Diagram:
 
-![image](https://github.com/cosmin-panescu/SQL-University-Projects/assets/107345473/9f016142-7e1f-4b02-affe-e016cef163f5)
+![image](https://github.com/cosmin-panescu/SQL-University-Projects/assets/107345473/86369ae0-0163-4db9-bff6-2bce805b7091)
+
